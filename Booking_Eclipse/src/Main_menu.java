@@ -85,7 +85,7 @@ public class Main_menu {
 		public void actionPerformed(ActionEvent event)
 		{
 			new Reservations(db);
-			new Flyafgange(db);
+			
 		}
 	}
 	
